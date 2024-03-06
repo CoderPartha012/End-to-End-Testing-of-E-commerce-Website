@@ -42,6 +42,15 @@ This Mavenized framework is designed for automated testing using the Page Object
 
 ---
 
+**Maven Repository:**
+
+1. ![extentreports](https://github.com/CoderPartha012/TestNG-Project/assets/104616945/b54cdf82-2737-461e-9756-ce72851105c5)
+2. ![selenium](https://github.com/CoderPartha012/TestNG-Project/assets/104616945/097b1571-158e-426e-aa7a-22fd3156365f)
+3. ![webdrivermanager](https://github.com/CoderPartha012/TestNG-Project/assets/104616945/08a58403-ef59-4384-b6c4-df7c23e825c2)
+4. ![TestNG](https://github.com/CoderPartha012/TestNG-Project/assets/104616945/d1fc1bef-7d6d-4b08-b532-ba23659bd4e1)
+
+---
+
 **Note:** Ensure proper configuration of WebDriverManager and browser versions for seamless test execution across different environments.
 
 --- 
