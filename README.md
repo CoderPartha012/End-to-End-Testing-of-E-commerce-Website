@@ -42,7 +42,7 @@ This Mavenized framework is designed for automated testing using the Page Object
 
 ---
 
-**Maven Repository:**
+**Maven Repository Which I Used:**
 
 1. ![extentreports](https://github.com/CoderPartha012/TestNG-Project/assets/104616945/b54cdf82-2737-461e-9756-ce72851105c5)
 2. ![selenium](https://github.com/CoderPartha012/TestNG-Project/assets/104616945/097b1571-158e-426e-aa7a-22fd3156365f)
